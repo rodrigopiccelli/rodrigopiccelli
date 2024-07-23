@@ -1,4 +1,4 @@
-![RodrigoPiccelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopiccelli&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopiccelli&show_icons=true&theme=transparent)
 <!--
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
