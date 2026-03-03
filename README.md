@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopiccelli&show_icons=true&theme=transparent&rank_icon=github) 
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopiccelli&show_icons=true&theme=transparent&rank_icon=github)-->
+![Stats](./profile/stats.svg)
 <!--
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
